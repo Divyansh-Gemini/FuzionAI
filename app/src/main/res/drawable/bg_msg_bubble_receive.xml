@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- StackOverflow/EtienneLawlor -->
+<!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <item>-->
+<!--        <rotate-->
+<!--            android:fromDegrees="-45"-->
+<!--            android:pivotX="0%"-->
+<!--            android:pivotY="0%"-->
+<!--            android:toDegrees="0" >-->
+<!--            <shape android:shape="rectangle" >-->
+<!--                <solid android:color="#DFEF41" />-->
+<!--            </shape>-->
+<!--        </rotate>-->
+<!--    </item>-->
+<!--    <item android:left="16dp">-->
+<!--        <shape android:shape="rectangle" >-->
+<!--            <solid android:color="#DFEF41" />-->
+<!--            <corners-->
+<!--                android:bottomLeftRadius="10sp"-->
+<!--                android:bottomRightRadius="10sp" />-->
+<!--        </shape>-->
+<!--    </item>-->
+<!--</layer-list>-->
+
+<!-- self -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#DFEF41" />
+    <corners
+        android:bottomLeftRadius="15sp"
+        android:bottomRightRadius="15sp"
+        android:topRightRadius="15sp"/>
+</shape>

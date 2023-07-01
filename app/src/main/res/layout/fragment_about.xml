@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AboutFragment">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100sp"
+        android:contentDescription="FuzionAI Logo"
+        android:src="@drawable/fuzion_ai_logo_light_green" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5sp"
+        android:fontFamily="@font/signika_medium"
+        android:text="@string/app_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="35sp" />
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="100sp"
+        android:fontFamily="@font/signika_medium"
+        android:justificationMode="inter_word"
+        android:maxWidth="300sp"
+        android:text="Developed by Divyansh Gemini in 2023.\nAura uses OpenAI's Chat-3.5 Turbo model to generate text responses &amp; Pixel uses OpenAI's DALL-E model to generate images."
+        android:textSize="16sp" />
+
+</LinearLayout>
