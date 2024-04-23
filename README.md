@@ -19,19 +19,20 @@ Android mobile application that uses OpenAI's Chat-3.5 Turbo and DALL-E 2.0 mode
 ## Screenshots
 
 <p align="center">
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/9948a538-4ecc-4594-8cf0-715bf91080e9" height="500"  alt=""/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/a627cfb4-f31f-4826-bb16-2125bcb54978" height="500"  alt=""/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/8489796c-bec6-4cbd-936e-97b850a8f823" height="500"  alt=""/>
 </p>
 <p align="center">
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/ad5d525c-8007-4938-a655-f9698c0196e7" height="500"  alt=""/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/d82422d4-21e6-4c53-91ea-4126d4b21c10" height="500"  alt=""/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="" height="500"  alt=""/>
+    <img src="https://github.com/Divyansh-Gemini/FuzionAI/assets/88696617/ff0fb02e-2e82-47a9-9049-0aa1f9ad309b" height="500"  alt=""/>
 </p>
+
 
 ## Installation Steps
 
